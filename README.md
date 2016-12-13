@@ -7,6 +7,9 @@ To edit host, port, folder and customisation read the source code, to edit the i
 if you like it use the button star, and contribute with it!<br />
 
 <br />
-img preview <br />
+# Preview
 <br />
-http://imgur.com/gallery/Hyx9N <br />
+<img src="http://i.imgur.com/nHn6ORP.png">Launcher<img />
+<br />
+<img src="http://i.imgur.com/J1DukPB.png">Configs<img />
+<br />
