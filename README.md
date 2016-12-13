@@ -9,7 +9,9 @@ if you like it use the button star, and contribute with it!<br />
 <br />
 # Preview
 <br />
-<img src="http://i.imgur.com/nHn6ORP.png">Launcher<img />
+<img src="http://i.imgur.com/nHn6ORP.png">
+<br />Launcher<img />
 <br />
-<img src="http://i.imgur.com/J1DukPB.png">Configs<img />
+<img src="http://i.imgur.com/J1DukPB.png">
+<br />Configs<img />
 <br />
