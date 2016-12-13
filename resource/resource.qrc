@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>lo_lo.jpg</file>
+        <file>load.jpg</file>
+        <file>manifest.xml</file>
+        <file>application.ico</file>
+        <file>load2.jpg</file>
+        <file>closeicon.jpg</file>
+        <file>btn.jpg</file>
+        <file>btn0.jpg</file>
+        <file>btndisable.jpg</file>
+        <file>Item_Back01.jpg</file>
+    </qresource>
+</RCC>
